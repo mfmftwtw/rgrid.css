@@ -4,7 +4,7 @@
 
 ## Example
 
-[http://var.tw/mfmftwtw/rgrid.css/](http://var.tw/mfmftwtw/rgrid.css/)
+[http://var.tw/mfmftwtw/rgrid.css/examples/](http://var.tw/mfmftwtw/rgrid.css/examples/)
 
 ## Quick Start
 
